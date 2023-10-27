@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+li{
+   list-style: none;  /*Remove as bolinhas de ordem*/
+   display: inline;
+  margin-right: 30px;
+}
+.Cabeçalho{
+    background-color: rgb(252, 119, 201);
+    height: 103px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+}
+.lista-menu li>a{
+    color: rgb(174, 12, 189);
+    font-size: 20px;
+    text-decoration: none; /*Remove o sublinhado da frase*/
+}
+
+.Perfil{
+    text-align: center;
+    
+    
+}
+.meio{
+    font-size: 20px;
+    color: blueviolet;
+    width: 490px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 21px;
+}
+.eio{
+    font-size: 20px;
+    color: blueviolet;
+    width: 490px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 21px;
+}
+.nal{
+    font-size: 20px;
+    color: blueviolet;
+    width: 490px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 21px;
+}
+img{
+    justify-content: flex-end;
+    margin-top: 48px;
+    margin-bottom: 26px;
+
+}
+
+.re{
+    font-size: 100 px;
+    color: rgb(182, 3, 253);
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 21px;
+    max-width: 100%;
+
+}
+.profissão{
+    font-size: 36 px;
+    color: rgb(182, 3, 253);
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 21px;
+    max-width: 100%;
+}
+ 
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 86px;
+    max-width: 400px;
+    font-size: 20px;
+}
+.artigo-formacao{
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+    
+.titulo-secao{
+    font-size: 26px;
+    color:  rgb(182, 3, 253);
+    margin-bottom: 60px;
+}
+.lista-formacao{
+    padding-left: 32px;
+    
+    
+}
+.titulo-formacao{
+    font-size: 26px;
+    color: blueviolet;
+    font-weight: 700;
+}
+.titulo-formacao2{
+    font-size: 26px;
+    color: blueviolet;
+    font-weight: 700;
+}
+
+.titulo-formacao3{
+    font-size: 26px;
+    color: blueviolet;
+    font-weight: 700;
+
+}
+
+.link-formacao{
+    font-size: 18 px;
+    color: blue;
+}
+.link-formacao2{
+    font-size: 18 px;
+    color: blue;
+}
+.link-formacao3{
+    font-size: 18 px;
+    color: blue;
+}
+
+.descricao-formacao{
+    color:rgb(182, 3, 253);
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: 53px;
+
+}
+.descricao-formacao2{
+    color:rgb(182, 3, 253);
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: 53px;
+
+}
+.descricao-formacao3{
+    color:rgb(182, 3, 253);
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: 53px;
+
+}
+id.Meusprojetos{
+    background-color: rgb(255, 196, 245);
+}
+
+.titulo-meusprojes{
+    font-size: 26px;
+    color: blueviolet;
+    font-weight: 700;
+    margin-bottom: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 86px;
+    max-width: 400px;
+   
+}
+
+.list-meusprojes{
+    padding-left: 32px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70 px;
+    max-width: 400px;
+    color: rgb(226, 43, 165);
+    font-size: 20px;
+}
+
+.descri-meusprojes{
+    color:rgb(182, 3, 253);
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: 53px;
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 8px;
+
+}
+.descri-meusprojes2{
+    color:rgb(182, 3, 253);
+    font-size: 20px;
+    margin-top: 8px;
+    margin-bottom: 53px;
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 8px;
+}
+
+.fim{
+
+    display: flex;
+    align-items: center;
+    background-color: rgb(252, 119, 201);
+    height: 186px;
+}
+.listafim{
+    color: rgb(207, 175, 238);
+    font-size: 18px;
+    margin-bottom: 28px;
+    font-weight: 700;
+}
+
+
+.cont{
+    display: flex;
+    align-items: center;
+    background-color: rgb(252, 119, 201);
+    height:186 px;
+    font-size: 18px;
+    margin-bottom: 28px;
+   
+}
